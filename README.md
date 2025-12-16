@@ -1,0 +1,2 @@
+# Comp-Sci--Assignment-Developing-a-Machine-Learning-App
+The purpose of the GoldInsight Predictor is to analyze historical market data to predict the future closing price of Gold Futures. By analyzing past price trends and trading volume, the application aims to provide investors and analysts with a data-driven baseline for predicting short-term market movements, helping in the decision-making process.
